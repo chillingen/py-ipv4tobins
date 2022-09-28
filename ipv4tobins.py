@@ -30,4 +30,5 @@ def i8tobins(i8):
 
     return s
     
-main()
+if __name__ == "__main__":
+    main()
